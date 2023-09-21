@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "42419170309",
+    "project_id": "prelims-cinchez",
+    "storage_bucket": "prelims-cinchez.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42419170309:android:a36c55125e8d439d66406c",
+        "android_client_info": {
+          "package_name": "com.example.prelims_cinchez"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF1RuKZxrNm3jcJEiSRjvEU4q3NL1UiYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
